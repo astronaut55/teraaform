@@ -1,0 +1,10 @@
+variable "bucket_s3" {
+    description = "s3_bucket"
+  
+}
+variable "aws_instance" {
+    description = "ec2_creation"
+}
+
+
+
